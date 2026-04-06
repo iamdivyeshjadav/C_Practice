@@ -8,9 +8,10 @@ int main()
 	printf("ans:%d",c);
 	
 }
-// output
+/*
+output
 	A=5
 	B=10
 	ans:25
 --------------------------------
-//
+*/
