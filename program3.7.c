@@ -16,3 +16,28 @@ int main()
 	}
 	
 }
+/*
+output
+enter element A :
+12
+13
+14
+15
+16
+enter element B :
+8
+7
+6
+5
+4
+A     B     sum
+
+----------------
+12     8     20
+13     7     20
+14     6     20
+15     5     20
+16     4     20
+--------------------------------
+Process exited after 24.07 seconds with return value 0
+*/
